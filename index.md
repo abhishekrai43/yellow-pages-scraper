@@ -3,10 +3,12 @@ Python Selenium based scraper which scrapes the details of businesses and output
 Gets Name, Category, Phone Number, Address and locality.
 
 **REQUIREMENTS**
+
 `pip3 install selenium`
 
 
 **INSTALLATION**
+
 simply run
 
 `git clone https://github.com/abhishekrai43/yellow-pages-scraper`
@@ -15,5 +17,6 @@ simply run
 
 
 **RUN**
+
 `python3 yellow-pages.py`
 
