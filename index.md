@@ -8,7 +8,7 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <meta name="google-site-verification" content="P5JvIrpAzGuAYMCBT3_-1TEpWsUUoQAaYK3B6hgaauA" />
+  <meta name="google-site-verification" content="2yFYZWwMInNYqVGarzS4imN1ASlVCGiR2IBy-c17q2g" />
 </head>
 # yellow-pages-scraper
 Python Selenium based scraper which scrapes the details of businesses and outputs a csv in the same folder.
