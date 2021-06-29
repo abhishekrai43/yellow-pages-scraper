@@ -1,4 +1,3 @@
-
 <head>
 <meta name="google-site-verification" content="2yFYZWwMInNYqVGarzS4imN1ASlVCGiR2IBy-c17q2g" />
 </head>
