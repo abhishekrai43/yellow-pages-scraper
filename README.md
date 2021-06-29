@@ -14,6 +14,7 @@ simply run
 `git clone https://github.com/abhishekrai43/yellow-pages-scraper`
 
 `cd yellow-pages-scraper`
+
 **RUN**
 
 `python3 yellow-pages.py`
