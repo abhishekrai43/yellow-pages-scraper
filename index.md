@@ -9,6 +9,8 @@ Gets Name, Category, Phone Number, Address and locality.
 **INSTALLATION**
 simply run
 `git clone https://github.com/abhishekrai43/yellow-pages-scraper`
+
+
 `cd yellow-pages-scraper`
 
 
