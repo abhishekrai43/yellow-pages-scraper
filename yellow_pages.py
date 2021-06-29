@@ -1,7 +1,5 @@
 import csv
-
 import time
-
 from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
