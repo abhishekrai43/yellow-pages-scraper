@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="NW8Ns4neo_wAmyQX2gDCyHoaNk3yJ-gys0A3J0ibyBA" />
+<meta name="google-site-verification" content="2yFYZWwMInNYqVGarzS4imN1ASlVCGiR2IBy-c17q2g" />
 # yellow-pages-scraper
 Python Selenium based scraper which scrapes the details of businesses and outputs a csv in the same folder.
 Gets Name, Category, Phone Number, Address and locality.
