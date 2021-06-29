@@ -21,5 +21,5 @@ simply run
 
 **RUN**
 
-`python3 yellow-pages.py`
+`python3 yellow_pages.py`
 
