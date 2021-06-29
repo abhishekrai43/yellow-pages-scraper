@@ -1,8 +1,7 @@
 import csv
-import re
+
 import time
-import requests
-from bs4 import BeautifulSoup
+
 from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
