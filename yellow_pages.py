@@ -1,6 +1,3 @@
-import os
-import sys
-sys.path.append(os.environ['WORKSPACE'])
 import selenium
 import csv
 import time
