@@ -1,3 +1,5 @@
+sys.path.append(os.environ['WORKSPACE'])
+import selenium
 import csv
 import time
 from selenium.webdriver import DesiredCapabilities
@@ -6,7 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-sys.path.append(os.environ['WORKSPACE'])
+
 search_term = input("Enter the search (Two Words at most) :")
 if len(search_term.split()) > 1:
     new = search_term.split(" ")
