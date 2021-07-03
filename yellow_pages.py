@@ -1,3 +1,5 @@
+import sys
+print (sys.path)
 import csv
 import time
 from selenium.webdriver import DesiredCapabilities
